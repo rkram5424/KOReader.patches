@@ -7,4 +7,4 @@ Fixes this inconsistency:
 ### [🞂 2-pt-disable-right-items.lua](2-pt-disable-right-items.lua.lua)
 [Project: Title](https://github.com/joshuacant/ProjectTitle) only. Disables all right side items in "Cover List" view:
 
-<img width="600" height="800" alt="FileManager_2026-01-11_220626" src="https://github.com/user-attachments/assets/cec10ed8-62a6-427f-a4bb-094beb0001e8" />
+<img width="1200" height="800" alt="disable_right_items" src="https://github.com/user-attachments/assets/c5583690-58be-40ca-8683-504878b47039" />
